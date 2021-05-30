@@ -2,7 +2,7 @@
 
 # Verification of parameter
 # 确认参数
-if [ -z $1 ]
+if [ -z $1 ] 
 then
     echo "Please enter the file of dictionary !"
     exit
